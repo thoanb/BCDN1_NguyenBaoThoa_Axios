@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../BCDN1_QuanLyNhanVien_NguyenBaoThoa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BCDN1_axios_QLTT_NguyenBaoThoa"
+	}
+}
